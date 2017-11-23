@@ -1,10 +1,10 @@
 # hello-world
 
 ## Heading
-Alive.
+* Alive.
 
 ### Beginning
-Start.
+* Start.
 
 ### End
-End.
+* End.
